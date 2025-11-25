@@ -109,4 +109,5 @@ Do whatever you want with it – modify, sell, use in classes – just keep the 
 
 
 ## Author
-Nina Dragicevic
+Nina Dragićević
+
